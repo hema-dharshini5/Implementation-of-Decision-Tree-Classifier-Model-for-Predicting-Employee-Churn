@@ -80,7 +80,11 @@ dt.predict([[0.5,0.8,9,260,6,0,1,2]])
 
 
 ![ml 6 5](https://github.com/hema-dharshini5/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147117728/a27fc94d-b094-48c7-824f-2b8a438628c3)
+
 ![ml 6 6](https://github.com/hema-dharshini5/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147117728/3450360f-010e-4daa-8bad-74d06e1e7095)
+
+![322720580-5c88de7e-879f-4c53-b2d3-780a8ac6a7d5](https://github.com/hema-dharshini5/Implementation-of-Decision-Tree-Classifier-Model-for-Predicting-Employee-Churn/assets/147117728/6bf1b619-580a-446f-ad68-7e40cb0455ef)
+
 
 
 ## Result:
